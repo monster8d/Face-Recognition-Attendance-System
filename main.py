@@ -1,3 +1,5 @@
+#Coded by Nilangshu Majhi
+#buy me a cup of Coffee 6290457673@paytm
 ############################################# IMPORTING ################################################
 import tkinter as tk
 from tkinter import ttk
